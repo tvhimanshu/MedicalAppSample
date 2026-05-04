@@ -1,0 +1,74 @@
+[
+  {
+    "id": "note-001-a",
+    "patient_id": "pat-001",
+    "date": "2024-10-15",
+    "author": "Dr. Aisha Johnson",
+    "specialty": "Internal Medicine",
+    "note_type": "Follow-Up Visit",
+    "content": "Robert Chen presents for 3-month diabetes and hypertension follow-up. HbA1c 7.8% — improved from 8.4% in July but remains above target of <7.0%. Patient reports difficulty maintaining low-carbohydrate diet; admits to frequent rice and bread consumption. Blood pressure today 142/88 mmHg, still above target <130/80. Creatinine stable at 1.4, eGFR 58 (CKD Stage 2 unchanged). Microalbuminuria 45 mg/g persists — ACE inhibitor therapy continued. Plan: increase lisinopril to 20 mg daily, refer to structured diabetes education program (DSMES), nutritionist consult ordered. Recheck HbA1c, CMP, and urine ACR in 3 months. ALLERGY NOTE: Patient has severe penicillin allergy (anaphylaxis) — avoid all beta-lactam antibiotics."
+  },
+  {
+    "id": "note-001-b",
+    "patient_id": "pat-001",
+    "date": "2024-07-10",
+    "author": "Dr. Aisha Johnson",
+    "specialty": "Internal Medicine",
+    "note_type": "Follow-Up Visit",
+    "content": "Robert Chen, 3-month follow-up. HbA1c 8.4% — worsened from 8.0% in April. Patient reports new symptoms of polyuria and nocturia x3 per week over past 3 weeks, consistent with hyperglycemia. Weight 93.1 kg (+1.8 kg). CMP notable for creatinine 1.3 (stable), eGFR 62. New microalbuminuria detected: urine ACR 42 mg/g. Initiated lisinopril 10 mg for nephroprotection and blood pressure control. Reinforced dietary counseling. Metformin dose remains 1000 mg BID. Will refer to endocrinology if HbA1c does not improve to <7.5% by October visit."
+  },
+  {
+    "id": "note-002-a",
+    "patient_id": "pat-002",
+    "date": "2024-11-20",
+    "author": "Dr. Kevin Park",
+    "specialty": "Endocrinology",
+    "note_type": "Urgent Follow-Up",
+    "content": "Maria Santos returns for urgent thyroid follow-up after reporting 4 weeks of palpitations, tremulousness, insomnia, and anxiety worsening despite ongoing sertraline therapy. TSH 0.28 — suppressed (normal 0.40–4.50). Free T4 1.84 — elevated. Pattern consistent with iatrogenic subclinical hyperthyroidism from levothyroxine over-replacement. Current dose 100 mcg was initiated 8 months ago following inadequate response to 75 mcg. Plan: reduce levothyroxine from 100 mcg to 75 mcg daily. Counsel patient to take on empty stomach 30 minutes before breakfast and avoid calcium/iron within 4 hours of dose. Repeat TFTs in 6 weeks. If symptoms persist, consider referral to cardiology for palpitation workup given HR 96 today. Sertraline interaction: levothyroxine absorption unaffected by sertraline — no dose adjustment needed for sertraline."
+  },
+  {
+    "id": "note-003-a",
+    "patient_id": "pat-003",
+    "date": "2024-11-01",
+    "author": "Dr. Lisa Tran",
+    "specialty": "Cardiology",
+    "note_type": "Post-Operative Follow-Up",
+    "content": "James Wilson presents for 6-week post-operative follow-up after right total hip arthroplasty. Surgical wound healing well — no erythema, drainage, or signs of infection. ROM improving with PT (flexion 90°). Pain well-managed with acetaminophen PRN; patient reports no use of NSAIDs (appropriate given GI bleed history with ibuprofen and active anticoagulation). INR today 1.8 — subtherapeutic for AF indication (therapeutic target 2.0–3.0). INR has been inconsistently in range since discharge. Warfarin dose increased from 5 mg to 6 mg on Mon/Wed/Fri; maintain 5 mg on other days. Daily INR monitoring requested until two consecutive values in therapeutic range. Continue aspirin 81 mg for VTE prophylaxis per ortho protocol. DRUG INTERACTION NOTE: patient has ibuprofen allergy (GI bleed) — confirm no NSAID use. Warfarin + aspirin combination increases bleeding risk; monitor closely. Next INR check in 3 days."
+  },
+  {
+    "id": "note-004-a",
+    "patient_id": "pat-004",
+    "date": "2024-09-15",
+    "author": "Dr. Samuel Brown",
+    "specialty": "Pulmonology & Allergy",
+    "note_type": "Annual Asthma Review",
+    "content": "Aisha Patel presents for annual asthma management review. Patient reports excellent symptom control — using rescue albuterol only 1–2 times per week, down from 4–5 times per week in 2023. No nocturnal awakenings in past 3 months. No ER visits or oral steroid courses in the past year. Spirometry: FEV1 88% predicted, FVC 98% predicted, FEV1/FVC 0.76 (mild obstruction, improved from 0.71 last year). Total IgE 320 IU/mL (elevated), eosinophils 6.2% — supports allergic phenotype. Continue Advair 250/50 BID as current controller. Albuterol MDI PRN maintained for rescue. ALLERGY ALERT: Patient has severe aspirin-exacerbated respiratory disease (AERD) — avoid all NSAIDs and aspirin. Shellfish allergy noted. Written asthma action plan updated and provided. Trigger counseling: dust mites, cold air, exercise-induced bronchoconstriction — pre-treat with albuterol 15 min before exercise. Patient counseled on proper inhaler technique. Follow-up in 12 months or sooner if symptoms worsen."
+  },
+  {
+    "id": "note-005-a",
+    "patient_id": "pat-005",
+    "date": "2024-10-30",
+    "author": "Dr. Rachel Kim",
+    "specialty": "Cardiology",
+    "note_type": "Urgent Clinic Visit — Decompensated CHF",
+    "content": "Harold Thompson presents with 2-week history of worsening dyspnea on exertion (now dyspneic walking to bathroom), orthopnea requiring 3 pillows, and 4 kg weight gain consistent with acute decompensated heart failure. BNP 680 pg/mL (baseline ~180 pg/mL in August). Bilateral ankle pitting edema 2+. Crackles bilateral lung bases on auscultation. SpO2 94% on room air. HR 88, BP 136/84. Labs: creatinine 2.1 (elevated from baseline 1.7), eGFR 32 (CKD Stage 3a — acute-on-chronic), potassium 5.2 (borderline elevated — monitor closely with diuretic therapy). Furosemide dose increased from 40 mg to 80 mg twice daily. RENAL CAUTION: closely monitor creatinine and electrolytes given CKD; furosemide may worsen azotemia. Daily weights ordered — instruct patient to call if weight increases >1 kg/day. Fluid restriction 1.5 L/day. Empagliflozin continued (evidence-based for HFrEF + CKD). Cardiology consultation requested for consideration of ICD implantation (EF 35%). ALLERGY NOTE: ACE inhibitors contraindicated — patient has documented angioedema to ACE inhibitors. ARB (sacubitril/valsartan) consideration to be discussed at next visit pending renal function stability."
+  },
+  {
+    "id": "note-005-b",
+    "patient_id": "pat-005",
+    "date": "2024-09-15",
+    "author": "Dr. Rachel Kim",
+    "specialty": "Cardiology",
+    "note_type": "Routine Follow-Up",
+    "content": "Harold Thompson at routine 3-month follow-up. CHF compensated — weight stable at 94.2 kg, bilateral pitting edema 1+. BNP not checked today. Furosemide 40 mg BID — adequate symptom control until now. COPD managed with tiotropium + Symbicort — FEV1 44% predicted (GOLD Stage III severe obstruction). HbA1c 8.2% — above target; discussed insulin dose titration. Creatinine 1.7, eGFR 41 (CKD Stage 3). Sleep apnea: patient using CPAP 4–5 hours/night — encouraged full 7-hour use. Reviewed medication adherence — patient taking all 7 medications. Discussed advanced care planning given complex multimorbidity. Next appointment in 3 months; sooner if weight gain or dyspnea worsens."
+  },
+  {
+    "id": "note-006-a",
+    "patient_id": "pat-006",
+    "date": "2024-11-05",
+    "author": "Dr. Olivia Grant",
+    "specialty": "OB/GYN & Maternal-Fetal Medicine",
+    "note_type": "Prenatal Visit (28 weeks)",
+    "content": "Emily Nguyen at 28-week prenatal visit. Gestational diabetes well-controlled on current insulin regimen — fasting glucoses 75–90 mg/dL (target <95), 1-hour post-meal glucoses 100–130 mg/dL (target <140). HbA1c 5.9% — on target. Iron deficiency anemia ongoing: Hgb 10.2, ferritin 8 — continue ferrous sulfate 325 mg BID; advise taking with vitamin C and 2 hours apart from prenatal vitamins to maximize absorption. Fundal height 28 cm (concordant with dates). Fetal heart tones 150 bpm. No contractions reported. Anatomy ultrasound at 20 weeks: no structural anomalies identified. GROWTH ULTRASOUND ordered for 32 weeks to monitor fetal growth given GDM. Pre-eclampsia risk: urine protein/creatinine ratio 0.18 (below threshold of 0.30) — continue low-dose aspirin 81 mg daily for prophylaxis. Referred to MFM for co-management. Glucose monitoring log reviewed — patient compliant with 4x daily glucose checks. Next visit in 2 weeks (30 weeks). Discussed GDM management postpartum — glucose tolerance test 6 weeks after delivery; approximately 50% risk of progressing to T2DM within 10 years."
+  }
+]
