@@ -1,0 +1,191 @@
+[
+  {
+    "id": "doc-001",
+    "patient_id": "pat-001",
+    "patient_name": "Robert Chen",
+    "doc_type": "demographics",
+    "text": "Patient Robert Chen, 65-year-old male, MRN MRN-4821, blood type A+. Allergies: Penicillin (anaphylaxis, SEVERE) — avoid all beta-lactams; Sulfonamides (rash, moderate). Primary physician: Dr. Aisha Johnson, Internal Medicine. Insurance: Blue Cross Blue Shield PPO."
+  },
+  {
+    "id": "doc-002",
+    "patient_id": "pat-001",
+    "patient_name": "Robert Chen",
+    "doc_type": "conditions",
+    "text": "Active diagnoses for Robert Chen: Type 2 Diabetes Mellitus (E11.9, since 2015, chronic); Essential Hypertension (I10, since 2016, chronic); Chronic Kidney Disease Stage 2 (N18.2, since 2022, active); Hyperlipidemia (E78.5, since 2017, chronic)."
+  },
+  {
+    "id": "doc-003",
+    "patient_id": "pat-001",
+    "patient_name": "Robert Chen",
+    "doc_type": "medications",
+    "text": "Current medications for Robert Chen: Metformin 1000mg twice daily (Type 2 DM); Lisinopril 20mg once daily (Hypertension + nephroprotection); Atorvastatin 40mg at bedtime (Hyperlipidemia); Aspirin 81mg once daily (cardiovascular prophylaxis)."
+  },
+  {
+    "id": "doc-004",
+    "patient_id": "pat-001",
+    "patient_name": "Robert Chen",
+    "doc_type": "lab_result",
+    "text": "Lab results for Robert Chen (2024-10-15): HbA1c 7.8% [HIGH — target <7.0% for DM]; Fasting glucose 148 mg/dL [HIGH]; Creatinine 1.4 mg/dL [HIGH, ref 0.74–1.35]; eGFR 58 mL/min [LOW, ref >60 — CKD Stage 2]; BUN 22 mg/dL [HIGH]; Urine ACR 45 mg/g [HIGH — microalbuminuria, ref <30]; LDL 88 mg/dL [within DM target <100]; Potassium 4.3 mEq/L [normal]."
+  },
+  {
+    "id": "doc-005",
+    "patient_id": "pat-001",
+    "patient_name": "Robert Chen",
+    "doc_type": "clinical_note",
+    "text": "Clinical note 2024-10-15 by Dr. Aisha Johnson: Robert Chen 3-month follow-up. HbA1c improved from 8.4% to 7.8% but above target. Difficulty maintaining low-carb diet. BP 142/88 — above target <130/80. Lisinopril increased to 20mg for BP and nephroprotection. Referred to diabetes education program and nutritionist. Microalbuminuria 45 mg/g stable. Recheck in 3 months. ALERT: Penicillin allergy (anaphylaxis) — prescribe alternative antibiotics only."
+  },
+  {
+    "id": "doc-006",
+    "patient_id": "pat-002",
+    "patient_name": "Maria Santos",
+    "doc_type": "demographics",
+    "text": "Patient Maria Santos, 42-year-old female, MRN MRN-6034, blood type O-. Allergies: Latex (contact dermatitis, moderate). Primary physician: Dr. Kevin Park, Endocrinology. Insurance: Aetna HMO."
+  },
+  {
+    "id": "doc-007",
+    "patient_id": "pat-002",
+    "patient_name": "Maria Santos",
+    "doc_type": "conditions",
+    "text": "Active diagnoses for Maria Santos: Primary Hypothyroidism (E03.9, since 2019, chronic); Generalized Anxiety Disorder (F41.1, since 2020, active); Gastroesophageal Reflux Disease (K21.0, since 2021, active)."
+  },
+  {
+    "id": "doc-008",
+    "patient_id": "pat-002",
+    "patient_name": "Maria Santos",
+    "doc_type": "medications",
+    "text": "Current medications for Maria Santos: Levothyroxine 75mcg once daily on empty stomach (Hypothyroidism — dose recently reduced from 100mcg due to over-replacement); Sertraline 50mg once daily (Anxiety Disorder); Omeprazole 20mg once daily before meals (GERD)."
+  },
+  {
+    "id": "doc-009",
+    "patient_id": "pat-002",
+    "patient_name": "Maria Santos",
+    "doc_type": "lab_result",
+    "text": "Thyroid function tests for Maria Santos (2024-11-20): TSH 0.28 mIU/L [LOW — suppressed, ref 0.40–4.50, indicates over-replacement]; Free T4 1.84 ng/dL [HIGH, ref 0.82–1.77]; Free T3 3.9 pg/mL [normal, ref 2.3–4.2]. Pattern: iatrogenic subclinical hyperthyroidism."
+  },
+  {
+    "id": "doc-010",
+    "patient_id": "pat-002",
+    "patient_name": "Maria Santos",
+    "doc_type": "clinical_note",
+    "text": "Clinical note 2024-11-20 by Dr. Kevin Park: Maria Santos urgent thyroid follow-up. Reports 4 weeks of palpitations, tremulousness, insomnia. TSH suppressed at 0.28 — levothyroxine over-replacement confirmed. Dose reduced from 100mcg to 75mcg. Instructed to take on empty stomach, 30 min before breakfast, avoid calcium/iron within 4 hours. Repeat TFTs in 6 weeks. HR 96 today — if palpitations persist consider cardiology referral. Sertraline does not affect levothyroxine absorption."
+  },
+  {
+    "id": "doc-011",
+    "patient_id": "pat-003",
+    "patient_name": "James Wilson",
+    "doc_type": "demographics",
+    "text": "Patient James Wilson, 58-year-old male, MRN MRN-2295, blood type B+. Allergies: Ibuprofen (GI bleeding, SEVERE); Codeine (nausea/vomiting, mild). Primary physician: Dr. Lisa Tran, Cardiology. Insurance: Medicare Part B."
+  },
+  {
+    "id": "doc-012",
+    "patient_id": "pat-003",
+    "patient_name": "James Wilson",
+    "doc_type": "conditions",
+    "text": "Active diagnoses for James Wilson: Paroxysmal Atrial Fibrillation (I48.0, since 2021, active); Essential Hypertension (I10, since 2019, chronic); Total Right Hip Arthroplasty post-op 6 weeks (Z96.641, surgery 2024-09-20, active)."
+  },
+  {
+    "id": "doc-013",
+    "patient_id": "pat-003",
+    "patient_name": "James Wilson",
+    "doc_type": "medications",
+    "text": "Current medications for James Wilson: Warfarin 6mg Mon/Wed/Fri and 5mg other days (Atrial Fibrillation — stroke prophylaxis, INR target 2.0–3.0); Metoprolol Succinate 25mg twice daily (AF rate control); Amlodipine 5mg once daily (Hypertension); Aspirin 81mg once daily (VTE prophylaxis post-hip arthroplasty)."
+  },
+  {
+    "id": "doc-014",
+    "patient_id": "pat-003",
+    "patient_name": "James Wilson",
+    "doc_type": "lab_result",
+    "text": "Coagulation studies for James Wilson (2024-11-01): INR 1.8 [LOW — subtherapeutic, target 2.0–3.0 for AF]; PT 20.4 seconds [HIGH, ref 11.0–13.5]; aPTT 29.2 seconds [normal, ref 25–35]. Action taken: warfarin dose increased, daily INR monitoring until therapeutic range achieved."
+  },
+  {
+    "id": "doc-015",
+    "patient_id": "pat-003",
+    "patient_name": "James Wilson",
+    "doc_type": "clinical_note",
+    "text": "Clinical note 2024-11-01 by Dr. Lisa Tran: James Wilson 6-week post-op follow-up for right hip arthroplasty. Wound healing well. INR 1.8 — subtherapeutic for AF (target 2.0–3.0). Warfarin increased from 5mg to 6mg on Mon/Wed/Fri. Daily INR monitoring ordered. DRUG INTERACTION ALERT: Warfarin + Aspirin combination — elevated bleeding risk, monitor closely. ALLERGY ALERT: Ibuprofen causes GI bleeding in this patient — no NSAIDs under any circumstances. Acetaminophen PRN for pain only."
+  },
+  {
+    "id": "doc-016",
+    "patient_id": "pat-004",
+    "patient_name": "Aisha Patel",
+    "doc_type": "demographics",
+    "text": "Patient Aisha Patel, 35-year-old female, MRN MRN-8817, blood type AB+. Allergies: Aspirin (bronchospasm, SEVERE — Aspirin-Exacerbated Respiratory Disease / AERD); Shellfish (urticaria, moderate). Primary physician: Dr. Samuel Brown, Pulmonology & Allergy. Insurance: United Healthcare Choice Plus."
+  },
+  {
+    "id": "doc-017",
+    "patient_id": "pat-004",
+    "patient_name": "Aisha Patel",
+    "doc_type": "medications",
+    "text": "Current medications for Aisha Patel: Fluticasone/Salmeterol (Advair 250/50) 1 inhalation twice daily (Persistent Asthma — controller); Albuterol MDI 2 puffs as needed (Asthma rescue — use before exercise); Cetirizine 10mg once daily (Allergic Rhinitis); Triamcinolone cream 0.1% twice daily PRN (Atopic Dermatitis flares)."
+  },
+  {
+    "id": "doc-018",
+    "patient_id": "pat-004",
+    "patient_name": "Aisha Patel",
+    "doc_type": "clinical_note",
+    "text": "Clinical note 2024-09-15 by Dr. Samuel Brown: Aisha Patel annual asthma review. Well-controlled — albuterol use 1–2x/week, no ER visits or steroid courses in past year. Spirometry FEV1 88% predicted, FEV1/FVC 0.76. IgE 320 IU/mL elevated, eosinophils 6.2% — allergic phenotype confirmed. Continue Advair 250/50 BID. CRITICAL ALLERGY: Patient has AERD — aspirin and ALL NSAIDs cause bronchospasm. Written asthma action plan updated. Pre-treat with albuterol before exercise."
+  },
+  {
+    "id": "doc-019",
+    "patient_id": "pat-005",
+    "patient_name": "Harold Thompson",
+    "doc_type": "demographics",
+    "text": "Patient Harold Thompson, 71-year-old male, MRN MRN-1103, blood type O+. Allergies: ACE Inhibitors (angioedema, SEVERE — contraindicated); Contrast Dye (anaphylactoid reaction, SEVERE). Primary physician: Dr. Rachel Kim, Cardiology/Pulmonology (multidisciplinary). Insurance: Medicare Advantage HMO."
+  },
+  {
+    "id": "doc-020",
+    "patient_id": "pat-005",
+    "patient_name": "Harold Thompson",
+    "doc_type": "conditions",
+    "text": "Active diagnoses for Harold Thompson: COPD GOLD Stage III (J44.1, since 2010, chronic); Congestive Heart Failure EF 35% (I50.9, since 2018, chronic); Type 2 Diabetes Mellitus (E11.9, since 2008, chronic); Chronic Kidney Disease Stage 3a (N18.31, since 2020, active); Obstructive Sleep Apnea (G47.33, since 2016, chronic)."
+  },
+  {
+    "id": "doc-021",
+    "patient_id": "pat-005",
+    "patient_name": "Harold Thompson",
+    "doc_type": "medications",
+    "text": "Current medications for Harold Thompson (7 active medications): Tiotropium (Spiriva 18mcg) inhaled once daily (COPD); Budesonide/Formoterol (Symbicort 160/4.5) 2 puffs twice daily (COPD ICS/LABA); Carvedilol 12.5mg twice daily (CHF beta-blocker); Furosemide 80mg twice daily (CHF fluid management — recently increased); Spironolactone 25mg once daily (CHF aldosterone antagonist); Empagliflozin 10mg once daily (T2DM + CHF dual indication); Insulin Glargine 20 units at bedtime (Type 2 DM)."
+  },
+  {
+    "id": "doc-022",
+    "patient_id": "pat-005",
+    "patient_name": "Harold Thompson",
+    "doc_type": "lab_result",
+    "text": "Labs for Harold Thompson (2024-10-30): BNP 680 pg/mL [CRITICAL HIGH — ref <100, acute decompensated CHF]; HbA1c 8.2% [HIGH — target <7.0%]; Creatinine 2.1 mg/dL [HIGH — worsened from baseline 1.7]; eGFR 32 mL/min [CRITICALLY LOW — CKD Stage 3a, ref >60]; Potassium 5.2 mEq/L [borderline HIGH — monitor with diuretics]; Sodium 135 mEq/L [LOW]; SpO2 on 6MWT 88% [CRITICALLY LOW — ref >92%]; FEV1 44% predicted [CRITICALLY LOW — GOLD Stage III]."
+  },
+  {
+    "id": "doc-023",
+    "patient_id": "pat-005",
+    "patient_name": "Harold Thompson",
+    "doc_type": "clinical_note",
+    "text": "Clinical note 2024-10-30 by Dr. Rachel Kim: Harold Thompson urgent visit — acute decompensated CHF. 4kg weight gain, orthopnea, bilateral ankle edema 2+, crackles bilateral bases, SpO2 94% RA. BNP 680 (baseline ~180). Furosemide increased to 80mg BID. RENAL CAUTION: CKD Stage 3a — monitor creatinine and electrolytes daily with aggressive diuresis. Daily weights, fluid restriction 1.5L/day. ALLERGY: ACE inhibitors CONTRAINDICATED (angioedema). Consider ARB sacubitril/valsartan pending renal stability. ICD implantation discussion at next visit (EF 35%). Empagliflozin continued — evidence-based for HFrEF+CKD."
+  },
+  {
+    "id": "doc-024",
+    "patient_id": "pat-006",
+    "patient_name": "Emily Nguyen",
+    "doc_type": "demographics",
+    "text": "Patient Emily Nguyen, 29-year-old female, MRN MRN-7740, blood type A-, 28 weeks pregnant. No known drug allergies. Primary physician: Dr. Olivia Grant, OB/GYN & Maternal-Fetal Medicine. Insurance: Cigna PPO."
+  },
+  {
+    "id": "doc-025",
+    "patient_id": "pat-006",
+    "patient_name": "Emily Nguyen",
+    "doc_type": "medications",
+    "text": "Current medications for Emily Nguyen (pregnancy): Insulin Aspart (NovoLog) carb ratio 1:15 units with each meal (Gestational DM — prandial); Insulin Glargine (Lantus) 8 units at bedtime (Gestational DM — basal); Ferrous Sulfate 325mg twice daily (Iron Deficiency Anemia — take with vitamin C, 2hr apart from prenatal vitamins); Prenatal Vitamins 1 tablet once daily; Aspirin 81mg once daily (pre-eclampsia prophylaxis — high-risk)."
+  },
+  {
+    "id": "doc-026",
+    "patient_id": "pat-006",
+    "patient_name": "Emily Nguyen",
+    "doc_type": "lab_result",
+    "text": "Obstetric labs for Emily Nguyen (2024-11-05): HbA1c 5.9% [on target <6.0% for GDM]; Fasting glucose 88 mg/dL [on target <95 obstetric]; 1hr post-meal glucose 128 mg/dL [on target <140]; Hemoglobin 10.2 g/dL [LOW — ref 11.0–16.0, iron deficiency anemia]; Ferritin 8 ng/mL [LOW — ref 12–150]; MCV 74 fL [LOW — microcytic anemia]; Urine protein/creatinine 0.18 [below pre-eclampsia threshold of 0.30 — reassuring]."
+  },
+  {
+    "id": "doc-027",
+    "patient_id": "pat-006",
+    "patient_name": "Emily Nguyen",
+    "doc_type": "clinical_note",
+    "text": "Clinical note 2024-11-05 by Dr. Olivia Grant: Emily Nguyen 28-week prenatal visit. GDM well-controlled on current insulin regimen — fasting 75–90, post-meal 100–130, HbA1c 5.9%. Iron deficiency anemia ongoing: Hgb 10.2, ferritin 8 — continue ferrous sulfate 325mg BID. Fundal height 28cm concordant with dates. Fetal heart tones 150 bpm. Growth ultrasound ordered for 32 weeks. Pre-eclampsia screen: urine P/C 0.18 — below threshold, continue aspirin 81mg daily prophylaxis. MFM co-management referral placed. Counseled: ~50% risk of T2DM within 10 years post-delivery — glucose tolerance test at 6-week postpartum visit."
+  }
+]
